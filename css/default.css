@@ -1,0 +1,93 @@
+@import url(http://fonts.googleapis.com/css?family=Petit+Formal+Script);
+
+			body {
+			background: #cefdbf;
+			color: #151b54;
+			font-size: 20px;
+			height: 300px;
+			width: 1024px;
+			font-family: century schoolbook;
+				}
+			
+			#header {
+				font-family:'Petit Formal Script', cursive;
+				margin: 0 auto;
+				font-size: 25px;
+				width: 500px;
+				float: right;
+				text-align: right;
+				color: #151b54;
+				}
+			
+			
+			#border {
+				margin:0 auto;
+				padding: 10px;
+				border: 30px ridge #153450;
+				width: 800px;
+				text-align: left;
+				float: center;
+				
+				background: url('../img/grid.jpg') repeat;
+				color: #153450;
+				}
+
+			#border img {
+				border-width: 0;
+				}
+			
+			
+			div {
+				margin: 0 auto;
+				width: 100%;
+				}
+					
+
+			
+			.footer {
+				color: #153450
+				width: 1024px;
+				font-family: helvetica;
+				margin: 10px;
+				font-size: 15px;
+				text-align: center;
+				}
+
+			div a:hover{
+				cursor: pointer;
+				}
+				
+			.subtag {
+			font-weight: bold;
+			text-align: center;
+				}
+
+			
+			#viewport {
+				width: 800px;
+				height: 160px;
+				overflow: auto;
+				background: #ffea92;
+				white-space: nowrap;
+				margin:0 auto; 
+				border: 20px ridge #153450;
+				padding:10px;
+				text-align: left; 
+				}
+
+			#viewport img {
+				height: 150px;
+				border-width: 0;
+				}
+
+			#grid p {
+				float:left; 
+				width:30%; 
+				padding-right:15px; 
+				line-height:150px; }
+			
+			#grid img {
+				vertical-align:middle;
+				}
+
+				
